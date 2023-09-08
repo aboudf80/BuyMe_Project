@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "buyme"
+version = "0.1.0"
+description = ""
+authors = ["nedal_zaroura <nedal_zaaroura@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
